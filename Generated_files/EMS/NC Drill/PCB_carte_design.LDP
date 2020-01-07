@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Cocasticox\Desktop\Devboard\Altium\PCB_carte_design.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_carte_design-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_carte_design-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

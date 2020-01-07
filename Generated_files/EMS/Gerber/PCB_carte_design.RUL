@@ -1,0 +1,14 @@
+DRC Rules Export File for PCB: C:\Users\Cocasticox\Desktop\Devboard\Altium\PCB_carte_design.PcbDoc
+RuleKind=Width|RuleName=Schematic Width Constraint_1|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Schematic Width Constraint|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=RF1|Scope=Board|Minimum=5.51
+RuleKind=Clearance|RuleName=RF0|Scope=Board|Minimum=5.51
+RuleKind=Width|RuleName=ETH_DIFF_WIDTH|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width1|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=ETH_DIFF|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=ANT2|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=ANT1|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
